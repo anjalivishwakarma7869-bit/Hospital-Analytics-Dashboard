@@ -109,15 +109,6 @@ The dashboard uses the following tables:
 
 ---
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot here:
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
-
----
 
 ## 📁 Project Structure
 
