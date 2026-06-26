@@ -126,4 +126,4 @@ Hospital-Analytics-Dashboard/
 
 ## 📌 Conclusion
 
-This dashboard provides a comprehensive overview of hospital operations, enabling stakeholders to monitor patient activity, appointment performance, treatment costs, and revenue trends through an interactive and user-friendly interface.
+This dashboard provides a comprehensive overview of hospital operations, enabling stakeholders to monitor patient activity, appointment performance, treatment costs, and revenue trends through an interactive and user-friendly interface
