@@ -112,16 +112,6 @@ The dashboard uses the following tables:
 
 ## 📁 Project Structure
 
-```text
-Hospital-Analytics-Dashboard/
-│
-├── Hospital Analytics Dashboard.pbix
-├── Dataset.xlsx
-├── README.md
-└── images/
-    └── dashboard.png
-```
-
 ---
 
 ## 📌 Conclusion
